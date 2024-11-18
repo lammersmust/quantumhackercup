@@ -1,1 +1,0 @@
-import{o,c as r,a as t}from"./BUXv2e4z.js";const a={xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 24 24"};function n(l,e){return o(),r("svg",a,e[0]||(e[0]=[t("path",{fill:"currentColor",d:"m4.431 12.822 13 9A1 1 0 0 0 19 21V3a1 1 0 0 0-1.569-.823l-13 9a1.003 1.003 0 0 0 0 1.645"},null,-1)]))}const c={render:n};export{c as default,n as render};
